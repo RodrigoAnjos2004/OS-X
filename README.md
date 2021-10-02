@@ -1,2 +1,2 @@
-# OS-X
+# OS-X DOCK
 Mac/visualizer/home 
